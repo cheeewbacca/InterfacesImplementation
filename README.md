@@ -1,1 +1,3 @@
-"# Interfaces Implementation" 
+# Interfaces Implementation
+
+Implementation of IEnumerable, ICloneable, IComparable.
